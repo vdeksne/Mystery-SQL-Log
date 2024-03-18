@@ -1,0 +1,17 @@
+If songs.db contains the top 100 songs of one listener from 2018, how would you characterize their audio aura?
+
+Average Energy: 0.65906
+
+Quite energetic.
+
+Valence: 0.484443
+
+Average valence.
+
+Danceability: 0.71646
+
+Good danceability.
+
+Hypothesize about why the way you’ve calculated this aura might not be very representative of the listener. What better ways of calculating this aura would you propose?
+
+Perhaps aura of top songs could be better calculated by music genres that artists of the top 100 represent. Aside of music genres of the songs represented like rock, pop, classical, blues, jazz etc. it would be interesting to calculate the aura also by the number of times each specific song of the list was played and comparing the everage danceability of top 10 vs. top 100, I guess that average energy is quite similar to average canceability so only one of the two variables could be looked at, not both but still keeping the valence. Perhpas also Spotify could include a new measure called "diversity" to suggest exploring new artists if diversity is not above 0.5 to make listening to music more exciting for all. 
